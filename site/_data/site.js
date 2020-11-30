@@ -1,7 +1,7 @@
 module.exports = {
   name: "Supermaya",
   shortDesc:
-    "An 11ty starter kit designed to help you add rich features to a site without a complicated build process.",
+    "Hello World",
   url: "",
   authorEmail: "mike@madebymike.com.au",
   authorHandle: "@MikeRiethmuller",
@@ -11,8 +11,8 @@ module.exports = {
   theme: {
     primary: {
       background: "white",
-      text: "black",
-      highlight: "#666",
+      text: "#666",
+      highlight: "#999",
     },
     secondary: {
       background: "black",
